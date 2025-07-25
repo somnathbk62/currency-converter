@@ -59,6 +59,10 @@ currency-converter/
 - Background image from Unsplash
 - Currency names and codes from ISO 4217
 
+## 🚀 Live Demo
+
+Check out the live project: [globexchange.netlify.app](https://globexchange.netlify.app/)
+
 ## License
 
 This project is open source and free to use for educational and personal purposes.
